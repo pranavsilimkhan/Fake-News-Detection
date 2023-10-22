@@ -1,1 +1,1 @@
-# cpsc_8470
+# CPSC 8470 Project - Phase 2
