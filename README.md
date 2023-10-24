@@ -1,5 +1,7 @@
 # CPSC 8470 Project - Phase 2
-
+In this project we have 2 parts - </br>
+- Function oriented implementation of the paper. This is present is ./model_function folder.
+- Deepfake detection. The source code for this is present in ./deepfake_detetction folder.
 ## Requirements
 
 - Python 3.6
