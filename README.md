@@ -33,3 +33,9 @@ python train.py --gpu 1 --lr 0.0001 --model_name bigru
 
 ## Reference
 - https://arxiv.org/pdf/2204.09484.pdf
+
+
+## Copyrights
+This project is done as a part of coursework at Clemson University by -
+- Pranav Pradosh Silimkhan (psilimk@g.clemson.edu)
+- Pramod Karkhani (pkarkha@g.clemson.edu)
