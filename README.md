@@ -27,7 +27,7 @@ You can run this code through:
 
 ```powershell
 # Reset several parameters
-python train.py --gpu 1 --lr 0.0001 --model_name bigru
+python train.py
 ```
 
 
