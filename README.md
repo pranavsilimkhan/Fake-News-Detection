@@ -11,6 +11,8 @@
 
 ## Run
 
+Note - It is recommended to run the code on GPU enabled devices like Palmetto. </br>
+
 Parameter Configuration:
 
 - max_len: the max length of a sample, default for `170`
