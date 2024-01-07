@@ -1,4 +1,4 @@
-# CPSC 8470 Project - Phase 3
+# Fake News Detector
 
 ## Requirements
 
